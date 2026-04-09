@@ -13,8 +13,9 @@ Importante: Durante la instalación, asegúrate de que la ruta sea C:\Program Fi
 🚀 Instalación de Dependencias
 Ejecuta el siguiente comando en tu terminal para instalar todas las librerías necesarias:
 
-Bash
+```Bash
 pip install pytesseract mysql-connector-python pyautogui customtkinter Pillow
+
 Detalle de las librerías utilizadas:
 pytesseract: Interfaz para el motor OCR Tesseract.
 
@@ -40,4 +41,5 @@ Para iniciar el monitor de IA, simplemente corre el script principal:
 
 ```Bash
 python Base.py
+
 Nota sobre el Icono: El sistema genera automáticamente un archivo logo_amp.ico al ejecutarse para personalizar la barra de tareas de Windows mediante el AppUserModelID configurado.
