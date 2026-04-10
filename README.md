@@ -16,7 +16,6 @@ El sistema requiere una base de datos MySQL (XAMPP/WAMP) con las siguientes espe
 * **Columnas**: `nombre`, `cedula`, `telefono`, `estatus_pago`
 
 ## 📦 Instalación
-
 Clona este repositorio o descarga los archivos y ejecuta el siguiente comando para instalar las librerías necesarias:
 
 ```bash
