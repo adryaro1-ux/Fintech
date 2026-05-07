@@ -14,7 +14,7 @@ Es obligatorio instalar el motor de Tesseract OCR en el sistema operativo para q
 El sistema esta constituido mediante lenguaje de programación Sqlite para independizar el medio de almacenamiento a un externo como "XAMPP", ubicado dentro de la carpeta de "database" de la carpeta principal del sistema
 * **Nombre de la DB**: `fintech_horizontes`
 * **Tabla**: `registros`,`estudios`
-* **1 Campo**: `id``nombre`, `cedula`, `telefono`,`estatus_pago`
+* **1 Campo**: `id`,`nombre`, `cedula`,`telefono`,`estatus_pago`
 * **2 Campo**: `id`,`nombre_estudio`,`precio`,`clinica_emisor`,`fecha_escaneo`
 
 ## 📦 Instalación
