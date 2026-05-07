@@ -1,6 +1,6 @@
 # 🛡️ Asistencia Predictiva - Seguros Horizonte (AMP)
 
-Sistema inteligente de soporte al cliente diseñado para el departamento de **Atención Médica Primaria (AMP)**. Esta herramienta utiliza **IA y Reconocimiento Óptico de Caracteres (OCR)** para monitorear la pantalla de **Avaya Workspace**, identificar números telefónicos de asegurados y clínicas entrantes, con el objetivo de mostrar automáticamente la información de la persona solicitante a un servicio determinado, de manera anticipada en una interfaz con estilo **Cyberpunk**, además posee la función de escanear de manera autónoma los documentos de registros efectuados por los **Operadores del Área de Call Center**, y asi evitar la sobrecarga manual.
+Sistema inteligente de soporte al usuario diseñado para el departamento de **Atención Médica Primaria (AMP)**. Esta herramienta utiliza **IA y Reconocimiento Óptico de Caracteres (OCR)** para monitorear la pantalla de **Avaya Workspace**, identificar números telefónicos de asegurados y clínicas entrantes, con el objetivo de mostrar automáticamente la información de la persona solicitante a un servicio o estudio médico solicitado, de manera anticipada en una interfaz con estilo **Cyberpunk**, además posee la función de escanear de manera autónoma los documentos de registros efectuados por los **Operadores del Área de Call Center**, y asi evitar la sobrecarga manual en el calculo de los montos de los antes mencionados.
 
 ## Requisitos del Sistema
 
