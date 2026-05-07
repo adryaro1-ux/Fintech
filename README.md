@@ -8,7 +8,7 @@ Sistema inteligente de soporte al cliente diseñado para el departamento de **At
 Es obligatorio instalar el motor de Tesseract OCR en el sistema operativo para que la lectura de pantalla funcione:
 * **Tesseract OCR**: [Descargar aquí](https://github.com/UB-Mannheim/tesseract/wiki).
 * **Ruta de instalación**: El script busca el ejecutable en `C:\Program Files\Tesseract-OCR\tesseract.exe`. Si lo instalas en otra ruta, modifícalo en la sección de configuración del código.
-* **Registos Baremos**: Informacion en formato "xlsx" sobre los estudios y precios afiliados y/o convenidos por cada Clinica filial.
+* **Registos Baremos**: Informacion en formato "xlsx" sobre los estudios y precios vinculados; y convenidos por cada Clinica filial.
 * **Ruta o Ubicacion de Baremos**: Ubicado dentro de la carpeta de "estudios" dentro de la ruta principal del sistema Fintech, cada uno esta registrado por numero telefonico de acuerdo a la clinica registrada en la base de datos `fintech_horizontes`.
 
 ### 2. Base de Datos
