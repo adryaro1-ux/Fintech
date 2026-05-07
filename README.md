@@ -25,4 +25,4 @@ Selecciona y descomprime los 7 archivos presentes en formato "rar"
 Clona este repositorio o descarga los archivos y ejecuta el siguiente comando para instalar las librerías necesarias:
 
 ```bash
-pip install pytesseract mysql-connector-python pyautogui customtkinter Pillow
+pip install pandas openpyxl pillow pytesseract pyautogui opencv-python customtkinter fuzzywuzzy python-Levenshtein pyinstaller
